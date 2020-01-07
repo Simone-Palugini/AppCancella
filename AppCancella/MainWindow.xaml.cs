@@ -68,6 +68,5 @@ namespace AppCancella
         {
             stop = true;
         }
-
     }
 }
